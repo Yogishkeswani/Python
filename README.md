@@ -1,4 +1,4 @@
-# Python Learning
+# Python
 
 This repository contains my Python learning journey, experiments, practice programs, and projects.
 
